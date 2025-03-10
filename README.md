@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey! I’m Akes, a Full-Stack Developer specializing in PHP! 💻✨<br><br>🌐 Tech Stack: PHP, Laravel, HTML, CSS, JavaScript, MySQL<br><br>🚀 I love building dynamic web apps and creating awesome user experiences! When I’m not coding, you’ll find me gaming or diving into tech podcasts. 🎮🎧<br> <br>🎮 When I'm not coding, you can find me gaming with friends! <br><br>🌟 Let’s connect and collaborate! 🤝<br>
+ Hey! I’m Akes, a Full-Stack Developer specializing in PHP! 💻✨<br><br>🌐 Tech Stack: PHP, Laravel, HTML, CSS, JavaScript, React, MySQL<br><br>🚀 I love building dynamic web apps and creating awesome user experiences! When I’m not coding, you’ll find me gaming or diving into tech podcasts. 🎮🎧<br> <br>🎮 When I'm not coding, you can find me gaming with friends! <br><br>🌟 Let’s connect and collaborate! 🤝<br>
 
 
 # 💻 Tech Stack:
